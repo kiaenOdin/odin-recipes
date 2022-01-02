@@ -1,0 +1,41 @@
+.title {
+    background-color: gray;
+    color: rgb(67, 0, 112);
+    text-align: center;
+    font-family: Helvetica, serif;
+}
+
+.list {
+    text-align: center;
+    color: rgb(67,0,112);
+}
+
+.center {
+    text-align: center;
+    color: rgb(90, 0, 126);
+}
+
+.left {
+    display: inline-block;
+}
+
+ul,
+li {
+    text-align: left;
+    color: rgb(90, 0, 126);
+}
+
+body {
+    background-color: gray;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+.imgc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
